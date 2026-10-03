@@ -29,7 +29,7 @@
 |------|-----------|------|
 | [aimy-sikll](https://github.com/Prohao42/aimy-sikll) | 专为 AI Agent 设计的轻量级渗透测试辅助工具，让 Claude Code 真正「动手」执行安全测试 | ![GitHub stars](https://img.shields.io/github/stars/Prohao42/aimy-sikll?style=social) |
 | [ccanz](https://github.com/Prohao42/ccanz) | Claude Code 一键安装脚本，全中文交互 · 跨平台 · 零依赖 · 支持模型配置 | ![GitHub stars](https://img.shields.io/github/stars/Prohao42/ccanz?style=social) |
-| [Harness](https://github.com/Prohao42/deepseek-harness-master) | Harness：一个把渗透测试装进 AI Agent 的开源框架 ## 它是什么 DeepSeek Harness 是一个插件化的 AI Agent 运行框架 ——在这里，"一切皆插件"。底层基于 Cordis，上层把会话、工具、LLM、沙箱、技能全部拆成独立能力，像搭积木一样组合。本项目在此基础上预装了 103 个渗透测试技能，使从通用代理变成开箱即用的网络安全AI工作台。| ![GitHub stars](https://github.com/Prohao42/deepseek-harness-master) |
+| [Harness](https://github.com/Prohao42/deepseek-harness-master) | Harness：一个把渗透测试装进 AI Agent 的开源框架 ## 它是什么 DeepSeek Harness 是一个插件化的 AI Agent 运行框架 ——在这里，"一切皆插件"。底层基于 Cordis，上层把会话、工具、LLM、沙箱、技能全部拆成独立能力，像搭积木一样组合。本项目在此基础上预装了 103 个渗透测试技能，使从通用代理变成开箱即用的网络安全AI工作台。| ![GitHub stars](https://img.shields.io/github/stars/deepseek-harness-master) |
 
 ---
 
