@@ -74,8 +74,12 @@
 
 ### 📫 找到我
 
-- **X (Twitter)**：[@Fakerrf5](https://x.com/Fakerrf5)  
+- **X (Twitter)**：[@Fakerrf5](https://x.com/Fakerrf5)
 - **Telegram**：[@Prohao42](https://t.me/Prohao42)
+- **知识星球**：[@炸炸酥](https://t.zsxq.com/FGUeq)
+  ![图片](https://yangdada873.ggff.net/file/1790961984947_7e6b8fe85a9a6c7c6040b281f049902d.jpg)
+- **微信公众号**:[炸炸酥渗透测试](https://yangdada873.ggff.net/file/1790961747832_扫码_搜索联合传播样式-标准色版.png)
+![图片](https://yangdada873.ggff.net/file/1790961747832_扫码_搜索联合传播样式-标准色版.png)
 
 欢迎来聊，交流技术、安全工具或吐槽 bug 都行（不过吐槽前请先备份你的代码）。
 
